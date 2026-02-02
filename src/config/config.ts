@@ -7,7 +7,7 @@ export const getAsset = (path: string) => {
 const siteConfig = {
   personal: {
     name: 'Ria Sharma',
-    title: 'Tired Student | No Role',
+    title: 'Student | Christ University, Bannerghatta Road Campus',
     image: getAsset('images/ria profile.png'), // Customize or replace with your profile image
     description:
       'Economics and data science undergraduate student with a strong interest in corporate finance and capital markets. Focused on financial analysis, valuation and data driven decision making..\n' +
@@ -26,7 +26,7 @@ const siteConfig = {
     description: "Portfolio website showcasing your education, research, projects, and experience.",
   },
 
-  animatedText: ['Tired Student', 'Investment Banking', 'Financial Economics', 'Economics'],
+  animatedText: ['Student', 'Investment Banking', 'Financial Economics', 'Economics'],
 
   navigation: [
     { name: 'Home', url: '/' },
