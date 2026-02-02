@@ -6,19 +6,19 @@ export const getAsset = (path: string) => {
 
 const siteConfig = {
   personal: {
-    name: 'Put your name inside the quote',
-    title: 'Your Title | Your Role',
-    image: getAsset('images/profile.png'), // Customize or replace with your profile image
+    name: 'Ria Sharma',
+    title: 'Tired Student | No Role',
+    image: getAsset('images/ria profile.png'), // Customize or replace with your profile image
     description:
-      'Write a short bio here describing your background and focus. Keep it to 2–4 sentences.\n' +
+      'Economics and data science undergraduate student with a strong interest in corporate finance and capital markets. Focused on financial analysis, valuation and data driven decision making..\n' +
       '\n' +
-      'Mention your institution or company, areas of interest, and what you teach or build.\n' +
+      'BSc economics with data science, Christ University BRC Campus, interested in Financial economics.\n' +
       '\n' +
       'Summarize your education or certifications briefly and highlight your practical work.\n' +
       '\n' +
       'Optional: Add notable books, workshops, or training you deliver.',
-    tagline: 'Add a concise personal tagline here.',
-    location: 'Your City, Country',
+    tagline: 'Data driven finance',
+    location: 'Bengaluru, India',
   },
 
   seo: {
