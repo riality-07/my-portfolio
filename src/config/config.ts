@@ -14,7 +14,7 @@ const siteConfig = {
       '\n' +
       'BSc economics with data science, Christ University BRC Campus, interested in Financial economics.\n' +
       '\n' +
-      'Summarize your education or certifications briefly and highlight your practical work.\n' +
+      'Economics and Data Science Student interested in Investment Banking..\n' +
       '\n' +
       'Optional: Add notable books, workshops, or training you deliver.',
     tagline: 'Data driven finance',
@@ -26,7 +26,7 @@ const siteConfig = {
     description: "Portfolio website showcasing your education, research, projects, and experience.",
   },
 
-  animatedText: ['Your Role', 'Your Focus', 'Your Interest', 'Builder'],
+  animatedText: ['Tired Student', 'Investment Banking', 'Financial Economics', 'Economics'],
 
   navigation: [
     { name: 'Home', url: '/' },
